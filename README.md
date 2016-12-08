@@ -1,5 +1,4 @@
-# create-hmac
-
+# create-hmac 仅支持react-native
 [![NPM Package](https://img.shields.io/npm/v/create-hmac.svg?style=flat-square)](https://www.npmjs.org/package/create-hmac)
 [![Build Status](https://img.shields.io/travis/crypto-browserify/createHmac.svg?branch=master&style=flat-square)](https://travis-ci.org/crypto-browserify/createHmac)
 [![Dependency status](https://img.shields.io/david/crypto-browserify/createHmac.svg?style=flat-square)](https://david-dm.org/crypto-browserify/createHmac#info=dependencies)
