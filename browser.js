@@ -3,7 +3,7 @@ var createHash = require('create-hash')
 var inherits = require('inherits')
 
 var Transform = require('react-native-stream').Transform
-
+var Buffer = require('buffer').Buffer;
 var ZEROS = new Buffer(128)
 ZEROS.fill(0)
 
